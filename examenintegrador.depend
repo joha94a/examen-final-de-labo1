@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1656117288 source:e:\utn\laboratorio 1\examen integrador\examenintegrador\funciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1656124659 e:\utn\laboratorio 1\examen integrador\examenintegrador\funciones.h
+
+1654956061 source:e:\utn\laboratorio 1\examen integrador\examenintegrador\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	"rlutil.h"
+
+1654955957 e:\utn\laboratorio 1\examen integrador\examenintegrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
